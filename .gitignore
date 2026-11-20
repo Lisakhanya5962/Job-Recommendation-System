@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Databases and backups
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Uploaded documents and private files
+uploads/
+media/
+*.pdf
+*.docx
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
